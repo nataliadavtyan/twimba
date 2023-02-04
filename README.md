@@ -6,9 +6,9 @@ Twimba is a clone version of Twitter.
 There is a feed that consists of three tweets. Users can like, repost (these buttons only change in color) and see the replies to each of them. Also they can write their own tweet that will be rendered in the feed.
 
 ## Demo
-See ![the demonstration](./twimba.gif)
+![The demonstration](./twimba.gif)
 
-or test it on Netlify: https://neon-conkies-77d5b4.netlify.app/
+Test it on Netlify: https://neon-conkies-77d5b4.netlify.app/
 
 ## Technologies
 The project is built using:
