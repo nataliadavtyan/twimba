@@ -1,13 +1,26 @@
-# co84f4accbdd36294c8fb29e2
+# Twimba
 
-## About Scrimba
+Twimba is a clone version of Twitter.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
+There is a feed that consists of three tweets. Users can like, repost (these buttons only change in color) and see the replies to each of them. Also they can write their own tweet that will be rendered in the feed.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+## Demo
+See [the demonstration](./twimba.gif)
 
-Happy Coding!
+or test it on Netlify: https://neon-conkies-77d5b4.netlify.app/
+
+## Technologies
+The project is built using:
+* HTML
+* CSS
+* JavaScript
+
+## Sources
+Twimba is built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+
+## Project status
+The project is complete.
+
+## Contact
+Created by [Natalia Davtyan](https://github.com/nataliadavtyan)
