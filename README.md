@@ -17,7 +17,7 @@ The project is built using:
 * JavaScript
 
 ## Sources
-Twimba is built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend).
+Twimba is built during the class on [the Frontend Developer Career Path at Scrimba](https://scrimba.com/learn/frontend) by Tom Chant.
 
 ## Project status
 The project is complete.
