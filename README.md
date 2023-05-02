@@ -8,7 +8,7 @@ There is a feed that consists of three tweets. Users can like, repost (these but
 ## Demo
 ![The demonstration](./twimba.gif)
 
-Test it on Netlify: https://neon-conkies-77d5b4.netlify.app/
+Test it on Netlify: https://twimba-natalia-davtyan.netlify.app/
 
 ## Technologies
 The project is built using:
